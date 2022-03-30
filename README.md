@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SylvainRo
+- 👋 Hi, I’m Sylvain
 - 👀 I’m interested in mathematical physics
 - 🌱 I’m currently learning html/python/ML
 - 💞️ I’m looking to collaborate on ...
